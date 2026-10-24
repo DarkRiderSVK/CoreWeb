@@ -174,8 +174,9 @@ Installation is handled via the built-in wizard `install.php`.
   - `curl` or `allow_url_fopen` (Resolving skins and player avatars)
 - **Database:** MySQL 5.7+ or MariaDB 10.3+
 - **Minecraft Server Backend:**
-  - **CoreSync** (Mandatory core plugin/mod backend)
-  - Optional Modules: **CoreWebChat**, **CoreWebshop**, **CoreRewards**, **CoreVotifier**, **CoreBans**
+  - [**CoreSync**](https://modrinth.com/plugin/coresync) *(Mandatory core plugin/mod dependency)*
+  - [**CoreVault**](https://modrinth.com/mod/corevault) *(For Forge / NeoForge economy)* or standard **Vault** *(Paper / Spigot)*
+  - Optional Modules: [**CoreWebChat**](https://modrinth.com/plugin/corewebchat), [**CoreWebshop**](https://modrinth.com/plugin/corewebshop), [**CoreRewards**](https://modrinth.com/plugin/corerewards), [**CoreVotifier**](https://modrinth.com/plugin/corevotifier), [**CoreBans**](https://modrinth.com/plugin/corebans), [**CoreLogin**](https://modrinth.com/plugin/corelogin)
 
 ---
 
